@@ -61,7 +61,7 @@ A 3-page Power BI dashboard analyzing **10K orders** and **$48M in revenue** acr
 ## 📸 Dashboard Preview
 
 **Sales Overview**
-![Sales Overview](1780734533155_image.png)
+![Sales Overview](https://github.com/Shaunak2829/Electronics-Sales-Performance-Customer-Segmentation-Revenue-Leakage-Analysis/blob/main/Sales%20overview.png)
 
 **Customer Segmentation**
 ![Customer Segmentation](1780734546501_image.png)
